@@ -30,7 +30,7 @@ Market Risk Analytics team with focus on FX and EM Rates.
 #### Risk Manager
 * Developed customized risk management solutions and reports for corporate clients.
 * Evaluated liquidity risk within clients' portfolios.
-* *   Conducted in-depth market risk analysis using Commitment approach, VaR, and Stress Tests.
+* Conducted in-depth market risk analysis using Commitment approach, VaR, and Stress Tests.
 * Generated comprehensive risk and regulatory reports for both fund portfolios and private clients.
 * Implemented process automation strategies using Python, VBA, and SQL programming to enhance efficiency and accuracy.
 
@@ -69,4 +69,4 @@ Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics
 * Solid programming skills in languages such as Python (6 years of experience), C/C++, SQL and Excel/VBA.
 * Good knowledge of the main statistical and numerical python packages (e.g. Pandas, Numpy, Statsmodels, Scipy, Scikit-learn, TensorFlow, JAX).
 * Experience in version control using Git and profiecincy in utilizing Linux distibutions.
-* Italian language (Native), English (Fluent).
+* **Languages:** Italian (Native), English (Fluent).
