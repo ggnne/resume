@@ -47,16 +47,16 @@ Market Risk Analytics team with focus on FX and EM Rates.
 #### Master of Science, Major in Quantitative Finance
 Relevant Courses:
 
-* Econometrics (SARIMA, DCC-GARCH, Factor Models)
-* Finance Theory (CAPM, APT, Fama-French, Fama-MacBeth)
-* Derivatives (Options pricing, Black-Scholes, Ito’s Lemma)
-* Fixed Income (Bond pricing, Vasicek, CIR, Hull-White),
-* Asset Management (Markowitz MPT, Mean-Variance, Black-Litterman, Michaud, VaR, ES)
-* Time Series Analysis (Holt-Winters, Markov processes, State-space models, Kalman filter)
+* Econometrics (SARIMA, DCC-GARCH, Factor Models).
+* Finance Theory (CAPM, APT, Fama-French, Fama-MacBeth).
+* Derivatives (Options pricing, Black-Scholes, Ito’s Lemma).
+* Fixed Income (Bond pricing, Vasicek, CIR, Hull-White).
+* Asset Management (Markowitz MPT, Mean-Variance, Black-Litterman, Michaud, VaR, ES).
+* Time Series Analysis (Holt-Winters, Markov processes, State-space models, Kalman filter).
 
 ### University of Florence <loc_time>• Florence, Italy • Sep. 2012 - Sep. 2015</loc_time> 
 #### Bachelor in Economics
-Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics
+Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics.
 
 ## Certificates
 
