@@ -25,6 +25,7 @@ Market Risk Analytics team with focus on FX and EM Rates.
 * Conducted research, developed, and implemented advanced market risk models for VaR and RNIV.
 * Designed and implemented pricing models for FX and IR products.
 * Optimized FX option risk assessment by addressing a widespread bug impacting the Vanna greek across various currencies and books.
+* Conducted quantitative research to analyze and refine statistical models, contributing to the continuous improvement of risk assessment methodologies.
 
 ### Gamma Capital Markets <loc_time>• Valletta, Malta • Apr. 2018 - Nov. 2019 </loc_time>
 #### Risk Manager
