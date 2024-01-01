@@ -69,15 +69,9 @@ code {
     color: black;
 }
 
-time {
-    float: right;
+loc_time {
     font-size: inherit;
     font-weight: normal;
-}
-
-location {
-    float: right;
-    font-weight: bold;
 }
 
 info {
