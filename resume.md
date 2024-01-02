@@ -69,5 +69,5 @@ Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics.
 * Experience in building and validating quantitative models, with a focus on time series forecasting, portfolio optimization, and option pricing,  mostly in Python or R.
 * Solid programming skills in languages such as Python (6 years of experience), C/C++, SQL and Excel/VBA.
 * Good knowledge of the main statistical and numerical python packages (e.g. Pandas, Numpy, Statsmodels, Scipy, Scikit-learn, TensorFlow, JAX).
-* Experience in version control using Git and profiecincy in utilizing Linux distibutions.
+* Experience in version control using Git and proficiency in utilizing Linux distributions.
 * **Languages:** Italian (Native), English (Fluent).
