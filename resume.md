@@ -45,7 +45,7 @@ Market Risk Analytics team with focus on FX and EM Rates.
 ## Education
 
 ### Bocconi University <loc_time>• Milan, Italy • Sep. 2015 - Mar. 2018</loc_time> 
-#### Master of Science, Major in Quantitative Finance
+#### M.Sc. in Finance, Major in Quantitative Finance
 Relevant Courses:
 
 * Econometrics (SARIMA, DCC-GARCH, Factor Models).
@@ -56,7 +56,7 @@ Relevant Courses:
 * Time Series Analysis (Holt-Winters, Markov processes, State-space models, Kalman filter).
 
 ### University of Florence <loc_time>• Florence, Italy • Sep. 2012 - Sep. 2015</loc_time> 
-#### Bachelor in Economics
+#### B.Sc. in Economics
 Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics.
 
 ## Certificates
