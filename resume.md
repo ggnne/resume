@@ -3,7 +3,8 @@ title: "Giulio Guerri, FRM"
 ---
 
 <info>Dedicated and detail-oriented Quantitative Finance professional.</info>
-<info> [Mail](mailto:giulio.guerri93@gmail.com) | [Linkedin](https://www.linkedin.com/in/giulioguerri/) | [GitHub](https://github.com/ggnne)</info>
+
+<info>[Mail](mailto:giulio.guerri93@gmail.com) | [Linkedin](https://www.linkedin.com/in/giulioguerri/) | [GitHub](https://github.com/ggnne)</info>
 
 ## Work Experience
 
@@ -61,8 +62,14 @@ Relevant Courses: Statistics, Microeconomics, Macroeconomics, Econometrics.
 
 ## Certificates
 
-### Global Association of Risk Professionals (GARP) <loc_time>• Jan. 2023 </loc_time>
-#### [Financial Risk Manager (FRM)](https://garp.my.site.com/DigitalBadgeFRM?id=0031W00002C5bQzQAJ&trk=public_profile_see-credential)
+### [Deep Learning](https://coursera.org/share/1c51996f0909fd9f7959ffab0da284a1)
+#### DeepLearning.AI on Coursera <loc_time>• Jan. 2024 </loc_time>
+
+### [Machine Learning](https://coursera.org/share/f9c6493009bf7d74d9ae904403c8bda7)
+#### Stanford University & DeepLearning.AI on Coursera <loc_time>• Jan. 2024 </loc_time>
+
+### [Financial Risk Manager (FRM)](https://garp.my.site.com/DigitalBadgeFRM?id=0031W00002C5bQzQAJ&trk=public_profile_see-credential)
+#### Global Association of Risk Professionals (GARP) <loc_time>• Jan. 2023 </loc_time>
 
 ## Professional Skills
 * Good communication and interpersonal skills; experience working with stakeholders and/or clients at all levels.
